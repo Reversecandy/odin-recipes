@@ -1,1 +1,1 @@
-My first real project where I will show ive mastered the basics of HTML and later on will be editing it with CSS.
+My first real project where I will show ive mastered the basics of HTML and later on edited it with a bit of CSS. It is now done I dont want to spend to much time on It because its purpose is just to demonstrate I know the basics.
